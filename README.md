@@ -7,7 +7,7 @@ Bootstrap, CSS, JavaScript, JQuery, Php and MySQL
 # Tools
 Xampp server, sublime text editor
 
-#screenshots 
+# Screenshots 
 
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3793).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3794).png)
