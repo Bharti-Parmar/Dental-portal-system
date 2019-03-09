@@ -9,7 +9,6 @@ Xampp server, sublime text editor
 
 #screenshots 
 
-![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3787).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3793).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3794).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3795).png)
@@ -20,7 +19,9 @@ Xampp server, sublime text editor
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3800).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3801).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3802).png)
+
+# This is some admin panel page for any correction and changes.
+
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3803).png)
 ![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3804).png)
-![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3805).png)
-![alt text](https://github.com/Bharti-Parmar/Dental-portal-system/blob/master/Screenshot%20(3806).png)
+
