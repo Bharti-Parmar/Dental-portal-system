@@ -1,0 +1,129 @@
+.head{
+     margin-top:10px;
+     margin-left: 120px;
+     margin-bottom:0px;
+}
+ .head2{
+     width:100%;
+}
+ .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    /* border-color: skyblue;
+     */
+     margin-top: 5px;
+     margin-bottom: 5px;
+}
+ .navbar-inverse .navbar-nav>li>a {
+     color: white;
+}
+ .navbar-inverse .navbar-nav>li>a:hover {
+     color: skyblue;
+}
+ .btnnn{
+     border:0px;
+     height:50px;
+     width:80%;
+     color:black;
+     background-color: #d3edf8;
+     -webkit-animation-name: freed1;
+     -webkit-animation-duration: 1s;
+     -webkit-animation-delay: 0s;
+     -webkit-animation-iteration-count: 500;
+     animation-iteration-count: 500;
+     animation-name: freed1;
+     animation-duration: 1s;
+     animation-delay: 0s;
+}
+ .mdbtn{
+     -webkit-animation-name: freed1;
+     -webkit-animation-duration: 1s;
+     -webkit-animation-delay: 0s;
+     -webkit-animation-iteration-count: 500;
+     animation-iteration-count: 500;
+     animation-name: freed1;
+     animation-duration: 1s;
+     animation-delay: 0s;
+}
+ @-webkit-keyframes freed1{
+     0% {
+         opacity: 0.2;
+         left:0px;
+         top:0px;
+    }
+     75% {
+        opacity:0.8;
+         left:0px;
+         top:10px;
+    }
+     100% {
+        opacity:1;
+         left:0px;
+         top:0px;
+    }
+}
+ @keyframes freed1{
+     0% {
+         opacity:0.2;
+         left:0px;
+         top:0px;
+    }
+     75% {
+         opacity:0.8;
+         left:0px;
+         top:10px;
+    }
+     100% {
+         opacity:1;
+         left:0px;
+         top:0px;
+    }
+}
+ @media screen and (max-height: 450px) {
+     .sidenav {
+        padding-top: 15px;
+    }
+     .sidenav a {
+        font-size: 18px;
+    }
+}
+ .hid{
+    display:none;
+}
+ .slideanim {
+    visibility:hidden;
+}
+ .uper {
+     animation-name: uper;
+     -webkit-animation-name: uper;
+     animation-duration: 1s;
+     -webkit-animation-duration: 1s;
+     visibility: visible;
+}
+ @keyframes uper {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateY(70%);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateY(0%);
+    }
+}
+ @-webkit-keyframes uper {
+     0% {
+         opacity: 0;
+         -webkit-transform: translateY(70%);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateY(0%);
+    }
+}
+ .fa{
+     font-size:40px;
+}
+ .circle{
+     border-radius:100%;
+     width:152px;
+     height:152px;
+     border:5px solid skyblue;
+}
