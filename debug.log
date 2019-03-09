@@ -1,0 +1,12 @@
+[1016/094737.739:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/094801.353:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/095737.727:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/095737.727:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/100237.837:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/101737.844:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/103237.854:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1016/103703.195:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1017/185955.778:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1017/185956.044:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[1017/185956.138:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffa6b5a54d0 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/185956.169:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
